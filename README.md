@@ -1,7 +1,7 @@
 # Quiz Application
 
 This is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to take a quiz with multiple-choice questions and provides instant feedback on their answers. Users can see their final score at the end of the quiz.
-##Live Demo
+## Live Demo
 [Demo Link](https://praneeth2862.github.io/Basic-Quiz-app/)
 ## Features
 
