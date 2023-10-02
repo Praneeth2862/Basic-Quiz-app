@@ -106,7 +106,7 @@ function startQuiz(){
     }
     function showQuestion(qid){
         if(qid<totalQuestions){
-            questionHeading.innerHTML=qid+" of "+totalQuestions;
+            questionHeading.innerHTML=(qid+1)+" of "+totalQuestions;
             question_box.innerHTML=questions[qid].question;
             correctAnswer=questions[qid].answer;
             confirmButton.style.display="none";
