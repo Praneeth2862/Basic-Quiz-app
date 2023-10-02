@@ -18,8 +18,8 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It allo
 - **Restart Quiz:** Users have the option to restart the quiz after viewing their score, allowing them to take the quiz again.
 
 ## Screenshots
-![Start Page](![image](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/a90bc206-f9f8-46ec-b271-6d7a652067a6)
-)
+![1](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/445e78bc-a360-4d8c-9f19-a89e7949d872)
+
 )
 ![Question](![image](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/b2eb9d79-5fa9-4b79-b776-52d04d02b95b)
 )
