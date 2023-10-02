@@ -18,15 +18,13 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It allo
 - **Restart Quiz:** Users have the option to restart the quiz after viewing their score, allowing them to take the quiz again.
 
 ## Screenshots
-![1](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/445e78bc-a360-4d8c-9f19-a89e7949d872)
+![Start Page](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/445e78bc-a360-4d8c-9f19-a89e7949d872)
 
 )
-![Question](![image](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/b2eb9d79-5fa9-4b79-b776-52d04d02b95b)
-)
-![instant Feedback](![image](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/bfc207cc-ddbf-4b4f-95d4-64fb3ee0ec82)
-)
-![Result Board](![image](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/44d6480e-e6ce-41d5-87ce-1cc7cba13c5a)
-)
+![Question](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/50f0003d-8d56-402e-b662-76f13f1f4c6e)
+![Instant FeedBack](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/5b0d2041-2f6a-44b2-82b9-16afd65b256b)
+![Result](https://github.com/Praneeth2862/Basic-Quiz-app/assets/95529324/d7ad1a86-5e77-49b5-a33e-3faf65e3f962)
+
 ## How to Use
 
 1. Clone this repository to your local machine:
