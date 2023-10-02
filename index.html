@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@700&family=Poppins:wght@300&family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+    <title>Quizz</title>
+</head>
+<body>
+    <!--------------------------------- Start Page --------------------------->
+    <div class="start-box" id="start-page">
+        <div class="logo"><span id="logo"></span>Quizz<span id="logo"></span></div>
+        <p>Please Click on the Take Test button to start the test.</p>
+        <div class="start-button" onclick="startQuiz()">
+            <button>Take Test</button>
+        </div>
+        <div class="owner">
+            <h3>By Praneeth</h3>
+        </div>
+    </div>
+    <!-------------------------- Quiz-box -------------------------------------->
+    <div class="quiz-box" id="quiz-page">
+        <div class="header">Question <span id="qid"></span></div>
+        <div class="quiz-wrapper">
+            <div class="question" id="question-box">
+                Who is the Current Prime minister of India?
+            </div>
+            <div class="options" id="options-box">
+               <button id="option-1"></button>
+               <button id="option-2"></button>
+               <button id="option-3"></button>
+               <button id="option-4"></button>
+            
+            </div>
+        </div>
+        <div class="navigation">
+            <button id="confirm-btn">Confirm&Next</button>
+            <button id="nav-next">Skip</button>
+            <button id="submit-quiz">Submit</button>
+        </div>
+    </div>
+    <!--------------------------------------- Result box ---------------------------------------------------------------->
+    <div class="result-box">
+        <div class="result-score">
+            Your Score: <span id="score">5</span>
+        </div>
+        <div class="result-wrapper">
+            <div class="result-details">
+                <h3>Total Questions:</h3>
+                <div class="total-questions">5</div>
+            </div>
+            <div class="result-details correct">
+                <h3>Correct</h3>
+                <div id="correct">2</div>
+            </div>
+            <div class="result-details wrong">
+                <h3>Wrong</h3>
+                <div id="wrong">3</div>
+            </div>
+            <div class="result-details grey">
+                <h3>Unanswered</h3>
+                <div id="unanswered">0</div>
+            </div>
+        </div>
+        <button class="restart" onclick="startQuiz()">Restart Quiz</button>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
